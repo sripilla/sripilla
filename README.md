@@ -1,6 +1,9 @@
-LIKITHA
-AI/ML Engineer
+<h1 align="center">LIKITHA</h1>
+<h3 align="center">AI/ML Engineer</h3>
 
+---
+
+```
 Building practical AI systems
 │
 ├── GenAI / RAG
@@ -9,7 +12,11 @@ Building practical AI systems
 ├── Machine Learning
 ├── MLOps
 └── Full-stack AI
+```
 
+## 🚀 Featured Projects
+
+```
 FEATURED PROJECTS
 │
 ├── CareVoice-AI
@@ -17,9 +24,12 @@ FEATURED PROJECTS
 ├── AgentOps
 ├── ChefStory
 └── Parallel Terrain Risk Mapping
+```
 
-CURRENTLY LEARNING
-AWS · Kubernetes · MLOps · Advanced RAG
+## 📚 Currently Learning
 
-OPEN SOURCE
-Kaggle · GitHub Contributions · Research
+**AWS** · **Kubernetes** · **MLOps** · **Advanced RAG**
+
+## 🌐 Open Source
+
+**Kaggle** · **GitHub Contributions** · **Research**
