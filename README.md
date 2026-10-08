@@ -1,16 +1,25 @@
-## Hi there 👋
+LIKITHA
+AI/ML Engineer
 
-<!--
-**sripilla/sripilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical AI systems
+│
+├── GenAI / RAG
+├── AI Agents
+├── NLP / Speech
+├── Machine Learning
+├── MLOps
+└── Full-stack AI
 
-Here are some ideas to get you started:
+FEATURED PROJECTS
+│
+├── CareVoice-AI
+├── VectorDNA
+├── AgentOps
+├── ChefStory
+└── Parallel Terrain Risk Mapping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CURRENTLY LEARNING
+AWS · Kubernetes · MLOps · Advanced RAG
+
+OPEN SOURCE
+Kaggle · GitHub Contributions · Research
